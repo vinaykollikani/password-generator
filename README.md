@@ -8,7 +8,7 @@ You can access the deployed application [here](https://your-deployed-app-link.co
 
 ## Screenshot
 
-![Password Generator Screenshot](path/to/your/screenshot.png)
+![Password Generator Screenshot](public/readme.png)
 
 ## Installation
 
