@@ -4,7 +4,7 @@ A simple and responsive password generator built with React and Tailwind CSS. Th
 
 ## Link
 
-You can access the deployed application [here](https://your-deployed-app-link.com).
+You can access the deployed application [here](https://password-generator-vinaykollikani.netlify.app/).
 
 ## Screenshot
 
